@@ -21,11 +21,12 @@ export default function Relogio() {
   return <h1>{horaAtual}</h1>;
 }
 
-export default function Relogio() {
+/*export default function Relogio() {
     return (
         <>
         <h1>Meu Relógio</h1>
         </>
-    );
+    );*/
 
 }
+
