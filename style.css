@@ -1,0 +1,27 @@
+body {
+  background: #ffe6f2 !important; /* fundo rosa claro */
+  font-family: Arial, sans-serif;
+}
+
+.card {
+  background: #fff0f7 !important; /* rosa clarinho */
+  border-radius: 20px !important;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.list-group-item {
+  background: #fff5fa;
+  border-radius: 12px;
+  margin-bottom: 8px;
+  transition: 0.2s;
+  border: none;
+}
+
+.list-group-item:hover {
+  background: #ffd9ea;
+  transform: scale(1.02);
+}
+
+h1, h2, h3, h4, h5 {
+  color: #d63384; /* rosa mais forte */
+}
